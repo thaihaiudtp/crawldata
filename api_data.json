@@ -1,0 +1,295 @@
+[
+    {
+        "api": "https://iprice.vn/api/new-filter/values/?parameters=a%3A2%3A%7Bs%3A8%3A%22category%22%3Bs%3A22%3A%22bep-an%2Fbinh-pha-ca-phe%22%3Bs%3A11%3A%22show-filter%22%3Bi%3A1%3B%7D&path=bep-an/binh-pha-ca-phe&cc=VN",
+        "data": {
+            "items": [
+                {
+                    "brand": [
+                        {
+                            "name": "BINCOO",
+                            "url": "https://iprice.vn/bincoo/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Bodum",
+                            "url": "https://iprice.vn/bodum/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Burberry",
+                            "url": "https://iprice.vn/burberry/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Coffee",
+                            "url": "https://iprice.vn/coffee/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Hario",
+                            "url": "https://iprice.vn/hario/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Hydro Flask",
+                            "url": "https://iprice.vn/hydro-flask/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "KitchenAid",
+                            "url": "https://iprice.vn/kitchenaid/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Le Creuset",
+                            "url": "https://iprice.vn/le-creuset/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Lock&Lock",
+                            "url": "https://iprice.vn/lock-lock/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Origami",
+                            "url": "https://iprice.vn/origami/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Shein",
+                            "url": "https://iprice.vn/shein/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "SỨ THÁI BÌNH",
+                            "url": "https://iprice.vn/su-thai-binh/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "TIMEMORE",
+                            "url": "https://iprice.vn/timemore/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Top",
+                            "url": "https://iprice.vn/top/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Wacaco",
+                            "url": "https://iprice.vn/wacaco/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "inochi",
+                            "url": "https://iprice.vn/inochi/bep-an/binh-pha-ca-phe/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        }
+                    ],
+                    "store": [
+                        {
+                            "name": "DOKODEMO",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?store=dokodemo&show-filter=1",
+                            "cgt": "click_store_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Fado",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?store=fado&show-filter=1",
+                            "cgt": "click_store_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "LazGlobal",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?store=lazglobal&show-filter=1",
+                            "cgt": "click_store_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "LazMall by Lazada",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?store=lazmall-by-lazada&show-filter=1",
+                            "cgt": "click_store_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Lazada",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?store=lazada&show-filter=1",
+                            "cgt": "click_store_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "SHEIN",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?store=shein&show-filter=1",
+                            "cgt": "click_store_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Shopee",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?store=shopee&show-filter=1",
+                            "cgt": "click_store_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "Tiki",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?store=tiki&show-filter=1",
+                            "cgt": "click_store_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        }
+                    ],
+                    "color": [
+                        {
+                            "name": "black",
+                            "color": "et",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?color=black&show-filter=1",
+                            "transName": "Đen",
+                            "cgt": "click_color_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "blue",
+                            "color": "bG",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?color=blue&show-filter=1",
+                            "transName": "Xanh dương",
+                            "cgt": "click_color_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "brown",
+                            "color": "brown",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?color=brown&show-filter=1",
+                            "transName": "Nâu",
+                            "cgt": "click_color_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "gold",
+                            "color": "gold",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?color=gold&show-filter=1",
+                            "transName": "Vàng gold",
+                            "cgt": "click_color_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "green",
+                            "color": "green",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?color=green&show-filter=1",
+                            "transName": "Xanh lá",
+                            "cgt": "click_color_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "grey",
+                            "color": "grey",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?color=grey&show-filter=1",
+                            "transName": "Xám",
+                            "cgt": "click_color_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "orange",
+                            "color": "gW",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?color=orange&show-filter=1",
+                            "transName": "Cam",
+                            "cgt": "click_color_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "pink",
+                            "color": "cD",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?color=pink&show-filter=1",
+                            "transName": "Hồng",
+                            "cgt": "click_color_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "red",
+                            "color": "red",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?color=red&show-filter=1",
+                            "transName": "Đỏ",
+                            "cgt": "click_color_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "silver",
+                            "color": "silver",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?color=silver&show-filter=1",
+                            "transName": "Bạc",
+                            "cgt": "click_color_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "white",
+                            "color": "dW",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?color=white&show-filter=1",
+                            "transName": "Trắng",
+                            "cgt": "click_color_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "yellow",
+                            "color": "iu",
+                            "url": "https://iprice.vn/bep-an/binh-pha-ca-phe/?color=yellow&show-filter=1",
+                            "transName": "Vàng",
+                            "cgt": "click_color_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        }
+                    ],
+                    "gender": [],
+                    "filterTags": []
+                }
+            ]
+        }
+    }
+]
