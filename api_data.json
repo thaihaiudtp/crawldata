@@ -6,8 +6,8 @@
                 {
                     "brand": [
                         {
-                            "name": "BENECREAT",
-                            "url": "https://iprice.vn/benecreat/so-thich/tap-chi/?show-filter=1",
+                            "name": "CANAMEK",
+                            "url": "https://iprice.vn/canamek/so-thich/tap-chi/?show-filter=1",
                             "cgt": "click_brand_filter_label",
                             "active": "",
                             "activeBorder": "rL"
@@ -27,13 +27,6 @@
                             "activeBorder": "rL"
                         },
                         {
-                            "name": "FOVIUPET",
-                            "url": "https://iprice.vn/foviupet/so-thich/tap-chi/?show-filter=1",
-                            "cgt": "click_brand_filter_label",
-                            "active": "",
-                            "activeBorder": "rL"
-                        },
-                        {
                             "name": "Kim Ngọc Thủy",
                             "url": "https://iprice.vn/kim-ngoc-thuy/so-thich/tap-chi/?show-filter=1",
                             "cgt": "click_brand_filter_label",
@@ -41,22 +34,15 @@
                             "activeBorder": "rL"
                         },
                         {
-                            "name": "LLCY",
-                            "url": "https://iprice.vn/llcy/so-thich/tap-chi/?show-filter=1",
+                            "name": "Louis Ben",
+                            "url": "https://iprice.vn/louis-ben/so-thich/tap-chi/?show-filter=1",
                             "cgt": "click_brand_filter_label",
                             "active": "",
                             "activeBorder": "rL"
                         },
                         {
-                            "name": "Linda Watson",
-                            "url": "https://iprice.vn/linda-watson/so-thich/tap-chi/?show-filter=1",
-                            "cgt": "click_brand_filter_label",
-                            "active": "",
-                            "activeBorder": "rL"
-                        },
-                        {
-                            "name": "MIN-TAN",
-                            "url": "https://iprice.vn/min-tan/so-thich/tap-chi/?show-filter=1",
+                            "name": "MISAKI KIRIMARU",
+                            "url": "https://iprice.vn/misaki-kirimaru/so-thich/tap-chi/?show-filter=1",
                             "cgt": "click_brand_filter_label",
                             "active": "",
                             "activeBorder": "rL"
@@ -83,22 +69,15 @@
                             "activeBorder": "rL"
                         },
                         {
+                            "name": "Patricia Mears",
+                            "url": "https://iprice.vn/patricia-mears/so-thich/tap-chi/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
                             "name": "Shein",
                             "url": "https://iprice.vn/shein/so-thich/tap-chi/?show-filter=1",
-                            "cgt": "click_brand_filter_label",
-                            "active": "",
-                            "activeBorder": "rL"
-                        },
-                        {
-                            "name": "Small Wow",
-                            "url": "https://iprice.vn/small-wow/so-thich/tap-chi/?show-filter=1",
-                            "cgt": "click_brand_filter_label",
-                            "active": "",
-                            "activeBorder": "rL"
-                        },
-                        {
-                            "name": "TH",
-                            "url": "https://iprice.vn/th/so-thich/tap-chi/?show-filter=1",
                             "cgt": "click_brand_filter_label",
                             "active": "",
                             "activeBorder": "rL"
@@ -111,8 +90,29 @@
                             "activeBorder": "rL"
                         },
                         {
+                            "name": "UUMIR",
+                            "url": "https://iprice.vn/uumir/so-thich/tap-chi/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
                             "name": "Việt Thư",
                             "url": "https://iprice.vn/viet-thu/so-thich/tap-chi/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "YOWEI",
+                            "url": "https://iprice.vn/yowei/so-thich/tap-chi/?show-filter=1",
+                            "cgt": "click_brand_filter_label",
+                            "active": "",
+                            "activeBorder": "rL"
+                        },
+                        {
+                            "name": "hobbyin",
+                            "url": "https://iprice.vn/hobbyin/so-thich/tap-chi/?show-filter=1",
                             "cgt": "click_brand_filter_label",
                             "active": "",
                             "activeBorder": "rL"
@@ -179,15 +179,6 @@
                             "color": "grey",
                             "url": "https://iprice.vn/so-thich/tap-chi/?color=grey&show-filter=1",
                             "transName": "Xám",
-                            "cgt": "click_color_filter_label",
-                            "active": "",
-                            "activeBorder": "rL"
-                        },
-                        {
-                            "name": "orange",
-                            "color": "gW",
-                            "url": "https://iprice.vn/so-thich/tap-chi/?color=orange&show-filter=1",
-                            "transName": "Cam",
                             "cgt": "click_color_filter_label",
                             "active": "",
                             "activeBorder": "rL"
