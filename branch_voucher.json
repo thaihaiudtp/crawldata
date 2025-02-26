@@ -1,101 +1,938 @@
 [
     {
-        "link_voucher": "https://iprice.vn/coupons/traveloka/",
-        "link": "https://iprice.vn/r/c/?_id=4136eb08-ec39-45c0-9129-1f77871a075f&position=1&sub_product=coupon-homepage&_exit=/coupons/",
-        "info": "Mã giảm giá Traveloka độc quyền 50K đặt khách sạn từ 1.5 Triệu",
+        "name": " Giảm 10% Khách Sạn ",
+        "link": "https://iprice.vn/r/c/?_id=e0783249-2e4d-4c57-8d6d-66385dcc8613&position=1&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Mã giảm giá Agoda 10% khi đặt khách sạn toàn thế giới",
         "hieu_luc": "31 Tháng 12 2025",
-        "gioi_han": "Chỉ áp dụng trên app",
-        "chi_tieu": "1.5 Triệu",
-        "doi_tuong": "Tất cả khách hàng"
-    },
-    {
-        "link_voucher": "https://iprice.vn/coupons/shopeefood/",
-        "link": "https://iprice.vn/r/c/?_id=94ed0316-6a2f-467b-a9ea-bfd863008b41&position=2&sub_product=coupon-homepage&_exit=/coupons/",
-        "info": "[Sale Tết] Mã giảm giá ShopeeFood 20% tối đa 888K mọi đơn hàng cuối năm",
-        "hieu_luc": "28 Tháng 1 2025",
-        "gioi_han": "Cửa hàng chọn lọc",
+        "gioi_han": "Nhập mã tại mục \"Ưu đãi\" trên app",
         "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
         "doi_tuong": "Tất cả khách hàng"
     },
     {
-        "link_voucher": "https://iprice.vn/coupons/hoangphuc-international/",
-        "link": "https://iprice.vn/r/c/?_id=e7825c76-c261-4837-b389-2cbeddcffc5a&position=5&sub_product=coupon-homepage&_exit=/coupons/",
-        "info": "[Sale Tết] Mã giảm giá Hoàng Phúc 41K cho đơn hàng từ 799K",
-        "hieu_luc": "31 Tháng 1 2025",
-        "gioi_han": "799K",
-        "chi_tieu": "Tất cả khách hàng",
-        "doi_tuong": "N/A"
-    },
-    {
-        "link_voucher": "https://iprice.vn/coupons/grab/",
-        "link": "https://iprice.vn/r/c/?_id=71a30a48-faae-4596-8fb8-ff0a08dbb7c5&position=6&sub_product=coupon-homepage&_exit=/coupons/",
-        "info": "[Sale Tết] Mã giảm giá Grab 50% tối đa 50K cho mọi dịch vụ GrabBike & GrabCar",
-        "hieu_luc": "26 Tháng 1 2025",
-        "gioi_han": "Tối đa 50K",
-        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
-        "doi_tuong": "Tất cả khách hàng"
-    },
-    {
-        "link_voucher": "https://iprice.vn/coupons/nguyen-kim/",
-        "link": "https://iprice.vn/r/c/?_id=d8d0f9fb-6edf-4d92-b516-aadbb03b3ddc&position=7&sub_product=coupon-homepage&_exit=/coupons/",
-        "info": "[Sale Tết] Mã giảm giá Nguyễn Kim lên đến 1.97 Triệu sắm đồ điện máy",
-        "hieu_luc": "31 Tháng 1 2025",
-        "gioi_han": "Mã tự động hiện đầy đủ tại phần thanh toán",
-        "chi_tieu": "2 Triệu",
-        "doi_tuong": "Tất cả khách hàng"
-    },
-    {
-        "link_voucher": "https://iprice.vn/coupons/ahamove/",
-        "link": "https://iprice.vn/r/c/?_id=5fc8f708-802a-4747-bbbe-6254e2125ae9&position=8&sub_product=coupon-homepage&_exit=/coupons/",
-        "info": "Mã khuyến mãi Ahamove đồng giá 9K cho 5 đơn xe máy đầu tiên",
+        "name": " Giảm 10% Mọi Chỗ Nghỉ ",
+        "link": "https://iprice.vn/r/c/?_id=9ce3e5fb-fea0-4a7f-9e9c-8e5076c2a6f2&position=2&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Tải ngay app & nhận voucher Agoda giảm 10% đơn đặt phòng",
         "hieu_luc": "31 Tháng 12 2025",
-        "gioi_han": "Giảm tối đa 9K",
+        "gioi_han": "Áp dụng cho lần đầu đặt phòng trên App",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Người dùng hiện tại"
+    },
+    {
+        "name": " Giảm 10% Đặt Khách Sạn ",
+        "link": "https://iprice.vn/r/c/?_id=da950302-e974-41ae-8ae9-191aae7fda19&position=3&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Mã khuyến mãi Agoda giảm 10% cho đơn đặt khách sạn",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Nhập mã tại mục \"Ưu đãi\"",
+        "chi_tieu": "650K",
+        "doi_tuong": "Người dùng hiện tại"
+    },
+    {
+        "name": " Giảm 5% Trên App ",
+        "link": "https://iprice.vn/r/c/?_id=3e180c90-41f5-4570-aea2-8547a50c1e39&position=4&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Mã khuyến mãi Agoda giảm 5% đặt chỗ nghỉ chọn lọc trên app",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Nhập mã tại phần \"Ưu đãi\" trên app để thu thập",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Người dùng hiện tại"
+    },
+    {
+        "name": " Giảm 5% Chỗ Nghỉ Chọn Lọc ",
+        "link": "https://iprice.vn/r/c/?_id=32ee2851-5e15-4afd-aed0-0921be00284d&position=5&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Mã giảm giá Agoda 5% đặt chỗ nghỉ du lịch chọn lọc",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Nhập mã tại phần \"Ưu đãi\" trên app để thu thập",
         "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
         "doi_tuong": "Tất cả khách hàng"
     },
     {
-        "link_voucher": "https://iprice.vn/coupons/bitis/",
-        "link": "https://iprice.vn/r/c/?_id=dc7bbfb7-2559-42bf-90e2-311eb8a43ca6&position=9&sub_product=coupon-homepage&_exit=/coupons/",
-        "info": "[Sale Tết] Mã giảm giá Biti's 40K cho đơn hàng từ 399K",
-        "hieu_luc": "31 Tháng 1 2025",
-        "gioi_han": "399K",
-        "chi_tieu": "Tất cả khách hàng",
-        "doi_tuong": "N/A"
+        "name": " Giảm 5% Mọi Đơn Hàng ",
+        "link": "https://iprice.vn/r/c/?_id=d3372acf-26f9-497f-80a8-2baca0b9c07c&position=6&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Mã giảm giá Agoda 5% tối đa 800K cho mọi đơn hàng",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Tối đa 800K",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Người dùng hiện tại"
     },
     {
-        "link_voucher": "https://iprice.vn/coupons/kkday/",
-        "link": "https://iprice.vn/r/c/?_id=1b59eca6-4ac3-46b7-b160-a0c4c71d64f2&position=10&sub_product=coupon-homepage&_exit=/coupons/",
-        "info": "[Sale năm mới] Mã giảm giá KKday 8% tối đa 360K cho tất cả dịch vụ",
-        "hieu_luc": "23 Tháng 1 2025",
-        "gioi_han": "Tối đa 360K",
-        "chi_tieu": "1.5 Triệu",
-        "doi_tuong": "Tất cả khách hàng"
+        "name": " Giảm 8% Mọi Khách Sạn ",
+        "link": "https://iprice.vn/r/c/?_id=a8bb149e-fc17-4d53-b355-5bb2399d0b9b&position=7&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Mã khuyến mãi Agoda 8% lên đến 1 Triệu đơn hàng từ 2.8 Triệu",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Tối đa 1 Triệu",
+        "chi_tieu": "2.8 Triệu",
+        "doi_tuong": "Người dùng hiện tại"
     },
     {
-        "link_voucher": "https://iprice.vn/coupons/klook/",
-        "link": "https://iprice.vn/r/c/?_id=04e43f80-9f63-485c-b59a-2a013f971f29&position=11&sub_product=coupon-homepage&_exit=/coupons/",
-        "info": "[Sale Tết] Mã giảm giá Klook 150K cho mọi hoạt động từ 3 Triệu",
-        "hieu_luc": "09 Tháng 2 2025",
-        "gioi_han": "Chỉ áp dụng trên app",
+        "name": " Giảm 8% Dùng Ngay ",
+        "link": "https://iprice.vn/r/c/?_id=0d87a77c-d56e-4c77-a4e3-95ff0af9950f&position=8&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[Trên App] Mã giảm giá Agoda lên đến 8% đặt phòng từ 3 Triệu",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Nhập mã tại phần \"Ưu đãi\" trên app để thu thập",
         "chi_tieu": "3 Triệu",
         "doi_tuong": "Tất cả khách hàng"
     },
     {
-        "link_voucher": "https://iprice.vn/coupons/bamboo-airways/",
-        "link": "https://iprice.vn/r/c/?_id=61dfb27b-fc0d-4645-9f84-7719b2a3e183&position=14&sub_product=coupon-homepage&_exit=/coupons/",
-        "info": "[22H - 2H] Mã giảm giá Bamboo Airways 10% đặt vé máy bay quốc tế",
+        "name": " Giảm 15% Sale Giữa Tháng ",
+        "link": "https://iprice.vn/r/c/?_id=1f996b24-3190-4b8f-8805-dfce0d4deaa7&position=9&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[Sale giữa tháng] Voucher Agoda giảm giá 15% cho khách sạn toàn cầu",
+        "hieu_luc": "25 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Người dùng hiện tại",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Đặt Khách Sạn Thứ 4 ",
+        "link": "https://iprice.vn/r/c/?_id=093a4c72-de52-4235-b1f5-81c3e06bcb9f&position=10&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[Thứ 4] Voucher Agoda giảm đến 20% đặt khách sạn toàn thế giới",
         "hieu_luc": "31 Tháng 12 2025",
-        "gioi_han": "Áp dụng lúc 22H - 02H từ thứ 6 - chủ nhật hàng tuần",
+        "gioi_han": "Khách sạn chọn lọc",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Người dùng hiện tại"
+    },
+    {
+        "name": " Giảm 8% Vé Máy Bay - Khách Mới ",
+        "link": "https://iprice.vn/r/c/?_id=690bdd41-83ee-4087-a815-abca12d9e40b&position=11&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[Khách mới] Coupon Agoda giảm giá tới 8% lần đầu đặt vé máy bay",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Kích hoạt trên app tại mục \"Phiếu Giảm Giá & Ưu Đãi\"",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Khách hàng lần đầu đặt vé máy bay"
+    },
+    {
+        "name": " Giảm 20% - Standard Charterted ",
+        "link": "https://iprice.vn/r/c/?_id=6f2f38da-387c-4e02-8b2a-8b460c984ea8&position=12&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[Standard Chartered] Voucher Agoda giảm 20% đến 700K đặt phòng khách sạn",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Tối đa 700K",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Khách hàng thanh toán bằng thẻ Standard Chartered Mastercard"
+    },
+    {
+        "name": " Giảm 12% - UOB ",
+        "link": "https://iprice.vn/r/c/?_id=28226772-170e-4068-b56b-08c53fd98c0a&position=13&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[UOB] Voucher Agoda giảm 12% tối đa 550K đặt khách sạn toàn cầu",
+        "hieu_luc": "31 Tháng 8 2025",
+        "gioi_han": "Tối đa 550K",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Khách hàng thanh toán bằng thẻ UOB"
+    },
+    {
+        "name": " Giảm 20% - VISA ",
+        "link": "https://iprice.vn/r/c/?_id=44a629dd-b5f8-4651-bfb8-3f6ce0fb4e3b&position=14&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[VISA] Voucher Agoda giảm 20% đến 900K mọi đơn đặt khách sạn",
+        "hieu_luc": "30 Tháng 9 2025",
+        "gioi_han": "Tối đa 900K",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Khách hàng thanh toán bằng thẻ VISA"
+    },
+    {
+        "name": " Giảm 20% - ACB ",
+        "link": "https://iprice.vn/r/c/?_id=35ed1ec3-f558-4456-81ef-d135194fb5af&position=15&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[ACB] Voucher Agoda giảm giá 20% tối đa 900K đặt phòng khách sạn",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Tối đa 900K",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Khách hàng thanh toán bằng thẻ ACB Visa Infinite, Privilege Visa Signature, Visa Signature, hoặc Visa Platinum"
+    },
+    {
+        "name": " Giảm 20% - KBank ",
+        "link": "https://iprice.vn/r/c/?_id=609a7a2d-2ec4-407e-acde-318711b27800&position=16&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[KBank] Voucher Agoda giảm giá 20% đến 1 Triệu đặt khách sạn toàn cầu",
+        "hieu_luc": "30 Tháng 4 2025",
+        "gioi_han": "Tối đa 1 Triệu",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Khách hàng thanh toán bằng thẻ tín dụng KBank Cashback Plus"
+    },
+    {
+        "name": " Giảm 1 Triệu - Shinhan Bank ",
+        "link": "https://iprice.vn/r/c/?_id=38ac89bb-4889-445d-bf54-ad53e8761ff5&position=17&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[Shinhan] Nhận e-voucher Agoda 1 Triệu với mỗi 1 Triệu điểm thưởng S.Point",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Áp dụng cho đặt phòng khách sạn thanh toán trả trước",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Khách hàng thanh toán bằng thẻ tín dụng Signature và Travel Platinum của Shinhan Bank"
+    },
+    {
+        "name": " Giảm 12% - MasterCard ",
+        "link": "https://iprice.vn/r/c/?_id=cc2d1730-da11-41d1-9b24-2604ce527105&position=18&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[MasterCard] Voucher Agoda giảm đến 12% tối đa 1.2 Triệu đặt khách sạn",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Tối đa 1.2 Triệu",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Khách hàng thanh toán bằng thẻ MasterCard"
+    },
+    {
+        "name": " Vé Tokyo Disneyland Từ 1.86 Triệu ",
+        "link": "https://iprice.vn/r/c/?_id=cbede411-6d08-4485-b616-fe6117995c47&position=19&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda chỉ từ 1.86 Triệu vé vui chơi công viên Tokyo Disneyland",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 22% Vé Bangkok Safari World ",
+        "link": "https://iprice.vn/r/c/?_id=956df443-34c7-432c-8d9f-31df17bb62c9&position=20&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm đến 22% vé sở thú Safari World ở Bangkok",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Vé Disneyland Hồng Kông ",
+        "link": "https://iprice.vn/r/c/?_id=2e35b4b2-65c3-49ef-915c-85148c0c43f4&position=21&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm đến 20% vé công viên Disneyland Hồng Kông",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 15% Vé Aquaria KLCC Malaysia ",
+        "link": "https://iprice.vn/r/c/?_id=18b31306-b372-47ad-9c09-48ec3050801a&position=22&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm đến 15% vé thủy cung Aquaria KLCC ở Malaysia",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Khách Sạn Phuket ",
+        "link": "https://iprice.vn/r/c/?_id=71242bc0-6934-4ef2-8947-d4dc528d74b6&position=23&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm đến 20% khách sạn du lịch Phuket",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 15% Chỗ Nghỉ Thâm Quyến ",
+        "link": "https://iprice.vn/r/c/?_id=b92ae2af-2852-464d-a67d-de4d8280a048&position=24&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm tới 15% đặt chỗ nghỉ tại Thâm Quyến",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 5% Chỗ Nghỉ Quảng Châu ",
+        "link": "https://iprice.vn/r/c/?_id=59caa158-885e-49f4-9a60-9a83530b5f2c&position=25&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm 5% chỗ nghỉ hội chợ Canton Fair ở Quảng Châu",
+        "hieu_luc": "04 Tháng 5 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 31% Chỗ Nghỉ London ",
+        "link": "https://iprice.vn/r/c/?_id=02ef535c-d28c-4e7a-a942-a3d0e0202647&position=26&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm đến 31% đặt chỗ nghỉ du lịch London",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Vé Máy Bay & Chỗ Nghỉ Valentine ",
+        "link": "https://iprice.vn/r/c/?_id=26c190ed-c9bf-4060-b58e-45e644b54881&position=27&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[Sale Valentine] Agoda khuyến mãi giảm tới 20% combo vé máy bay & chỗ nghỉ",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Áp dụng cho điểm đến tại Đài Loan, Hồng Kông, Macau & Trung Quốc",
         "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
         "doi_tuong": "Tất cả khách hàng"
     },
     {
-        "link_voucher": "https://iprice.vn/coupons/grabfood/",
-        "link": "https://iprice.vn/r/c/?_id=43c42fab-30f0-48f3-a1ab-782820657456&position=19&sub_product=coupon-homepage&_exit=/coupons/",
-        "info": "Mã khuyến mãi GrabFood giảm 25K đơn hàng từ 25K",
+        "name": " Giảm 20% Khách Sạn Cát Bà ",
+        "link": "https://iprice.vn/r/c/?_id=cb8c9eab-573c-4331-a5b9-79f1ebdf9656&position=28&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm đến 20% cho khách sạn tại đảo Cát Bà",
+        "hieu_luc": "30 Tháng 4 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 29% Khách Sạn Lăng Cô ",
+        "link": "https://iprice.vn/r/c/?_id=73e20da6-fe8f-4d0d-b58d-c84b1b7bcb64&position=29&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm giá tới 29% đặt khách sạn nghỉ dưỡng ở Lăng Cô",
+        "hieu_luc": "30 Tháng 4 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Khách Sạn Hàn Quốc ",
+        "link": "https://iprice.vn/r/c/?_id=53366e50-e605-4b5a-a97b-93d2b8988399&position=30&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm đến 20% đặt khách sạn tại Hàn Quốc",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 29% Chỗ Nghỉ Hàng Châu ",
+        "link": "https://iprice.vn/r/c/?_id=3660f8e5-70ee-4637-b79e-60d55a23dcf3&position=31&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm tới 29% đặt chỗ nghỉ du lịch Hàng Châu",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 15% Khách Sạn Tô Châu ",
+        "link": "https://iprice.vn/r/c/?_id=ac56b032-a63a-4b17-93a6-919b8cf07d7c&position=32&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm đến 15% đặt phòng khách sạn ở Tô Châu",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% T'Way Air ",
+        "link": "https://iprice.vn/r/c/?_id=e315666a-6cb2-4d58-84a6-9546a7e3198b&position=33&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm giá tới 20% khi đặt vé máy bay T'Way Air",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Chỗ Nghỉ Cao Hùng ",
+        "link": "https://iprice.vn/r/c/?_id=89214d4e-b3c5-4e19-aa68-e06738027083&position=34&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm đến 20% đặt chỗ nghỉ tại Cao Hùng",
+        "hieu_luc": "30 Tháng 4 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 30% Khách Sạn Bali ",
+        "link": "https://iprice.vn/r/c/?_id=0ed62f03-0573-488e-8893-2fcb40f61bd1&position=35&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm đến 30% khách sạn nghỉ dưỡng ở Bali",
+        "hieu_luc": "30 Tháng 4 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 25% Khách Sạn Busan ",
+        "link": "https://iprice.vn/r/c/?_id=e1ddbf43-d874-4fc8-b63e-82fc1084f545&position=36&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm giá tới 25% cho phòng khách sạn tại Busan",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 41% Chỗ Nghỉ Pattaya ",
+        "link": "https://iprice.vn/r/c/?_id=4af99838-d8d3-4feb-aac1-e36784a73e53&position=37&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm đến 41% đặt chỗ nghỉ du lịch Pattaya",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 30% Khách Sạn Ninh Bình ",
+        "link": "https://iprice.vn/r/c/?_id=5e5a88cf-157b-423d-88f2-5b49c68b31ab&position=38&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm đến 30% cho khách sạn tại Ninh Bình",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 15% Chỗ Nghỉ Cebu ",
+        "link": "https://iprice.vn/r/c/?_id=5a2e0cce-a17e-4f49-84f1-d16de472a5be&position=39&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm đến 15% đặt chỗ nghỉ du lịch tại Cebu",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Chỗ Nghỉ Sa Pa ",
+        "link": "https://iprice.vn/r/c/?_id=ea328004-0366-49c9-9f16-296a92a591e7&position=40&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm giá tới 20% đặt chỗ nghỉ tại Sa Pa",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 30% Khách Sạn Phan Thiết ",
+        "link": "https://iprice.vn/r/c/?_id=ca82fb7f-377b-45c0-b4fc-dbbc9a584e47&position=41&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm đến 30% cho khách sạn du lịch Phan Thiết",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 15% Đặt Khách Sạn ",
+        "link": "https://iprice.vn/r/c/?_id=f9a0c22e-768d-4389-9208-7f932c6a302f&position=42&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[Eco Deals] Ưu đãi Agoda giảm đến 15% đặt phòng khách sạn ủng hộ tổ chức WWF",
+        "hieu_luc": "19 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàn",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Khách Sạn Tokyo ",
+        "link": "https://iprice.vn/r/c/?_id=1e8f0982-6982-4243-a9f2-9f00b8bf04ee&position=43&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm đến 20% cho khách sạn du lịch Tokyo",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 30% Khách Sạn Hạ Long ",
+        "link": "https://iprice.vn/r/c/?_id=cce20711-f053-453b-92b9-cbed6019eb33&position=44&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm đến 30% cho khách sạn ở Hạ Long",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Chỗ Nghỉ Côn Đảo Từ 210K ",
+        "link": "https://iprice.vn/r/c/?_id=08224e2b-cc20-44f6-b566-b22c2d07329b&position=45&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giá chỉ từ 210K đặt chỗ nghỉ tại ở Côn Đảo",
+        "hieu_luc": "28 Tháng 2 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 10% Deal Khủng ",
+        "link": "https://iprice.vn/r/c/?_id=2d9ebeb1-2f99-4b70-bfde-6236245b0b57&position=46&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi khủng: Agoda giảm giá đến 10% cho chỗ nghỉ toàn cầu",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 30% Khách Sạn Đà Lạt ",
+        "link": "https://iprice.vn/r/c/?_id=7a667e98-e7a5-4f8d-be66-cf761f169c80&position=47&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm đến 30% đặt phòng khách sạn ở Đà Lạt",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Chỗ Nghỉ Đà Nẵng ",
+        "link": "https://iprice.vn/r/c/?_id=39f13e35-8c01-4183-96c4-38f5690a94f0&position=48&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm giá tới 20% đặt chỗ nghỉ du lịch Đà Nẵng",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Khách Sạn Đài Bắc ",
+        "link": "https://iprice.vn/r/c/?_id=9c8fa7c2-cbe1-414b-8c43-fc85c1193afd&position=49&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm tới 20% cho khách sạn tại Đài Bắc",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 30% Chỗ Nghỉ Thượng Hải ",
+        "link": "https://iprice.vn/r/c/?_id=fc064cf6-2daf-4618-9429-058b6ace51f9&position=50&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm đến 30% đặt chỗ nghỉ khám phá Thượng Hải",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Khách Sạn Bangkok ",
+        "link": "https://iprice.vn/r/c/?_id=df22e16b-48f2-4837-b9bf-034c5c83093a&position=51&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm đến 20% đặt khách sạn hàng đầu Bangkok",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 25% Chỗ Nghỉ Nha Trang ",
+        "link": "https://iprice.vn/r/c/?_id=64ffc765-fb20-40a7-aa15-a69213ee6442&position=52&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm đến 25% chỗ nghỉ du lịch Nha Trang",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Khách Sạn Hội An ",
+        "link": "https://iprice.vn/r/c/?_id=c669f504-7efc-4350-b252-541d0c6b0759&position=53&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm giá đến 20% đặt khách sạn tại Hội An",
+        "hieu_luc": "30 Tháng 6 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 25% Chỗ Nghỉ Phú Quốc ",
+        "link": "https://iprice.vn/r/c/?_id=71f86530-048c-4a2f-9a48-2a1d3db0c925&position=54&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm đến 25% đặt chỗ nghỉ du lịch Phú Quốc",
+        "hieu_luc": "30 Tháng 6 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 5% Khách Sạn Trung Quốc ",
+        "link": "https://iprice.vn/r/c/?_id=5ea5cc18-7b1b-4c9f-97f0-795d5cc68a91&position=55&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm thêm 5% khách sạn hàng đầu Trung Quốc mừng xuân",
+        "hieu_luc": "15 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Khách Sạn Singapore ",
+        "link": "https://iprice.vn/r/c/?_id=4b37f29d-b6fd-43a4-ab18-9abb385855b2&position=56&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm đến 20% đặt ngay khách sạn tại Singapore",
         "hieu_luc": "31 Tháng 12 2025",
-        "gioi_han": "Áp dụng mỗi ngày trong tuần lúc 6H - 23H",
-        "chi_tieu": "25K",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 30% Khách Sạn Kuala Lumpur ",
+        "link": "https://iprice.vn/r/c/?_id=cebbb459-a6b9-4228-804a-b5a1d0f884a2&position=57&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm đến 30% đặt khách sạn khám phá Kuala Lumpur",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 10% Chỗ Nghỉ Đài Loan ",
+        "link": "https://iprice.vn/r/c/?_id=e234fcb7-56b9-4fe0-9d85-e0c97693cc04&position=58&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm thêm 10% đặt chỗ nghỉ hàng đầu ở Đài Loan",
+        "hieu_luc": "06 Tháng 4 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Khách Sạn Nhật Bản ",
+        "link": "https://iprice.vn/r/c/?_id=332ae701-d6e1-4b85-a4db-8f870d3c41c2&position=59&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm đến 20% đặt khách sạn du lịch Nhật Bản",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 5% Lễ Hội Du Lịch Châu Á ",
+        "link": "https://iprice.vn/r/c/?_id=d4f090a4-ce19-45e6-b5e7-d5c3b8d9c910&position=60&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Lễ hội du lịch châu Á: Agoda khuyến mãi giảm thêm 5% đặt khách sạn ngay",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Áp dụng cho một số khách sạn ở Trung Quốc",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
         "doi_tuong": "Tất cả khách hàng"
+    },
+    {
+        "name": " Giảm 20% Khách Sạn Manila ",
+        "link": "https://iprice.vn/r/c/?_id=b829df80-310f-467a-a066-d73e40d72505&position=61&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm giá tới 20% đặt khách sạn khám phá Manila",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 25% Khách Sạn Thái Lan ",
+        "link": "https://iprice.vn/r/c/?_id=b25a734b-f6f7-4169-89b4-bf179eb1c4d7&position=62&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm đến 25% đặt khách sạn du lịch Thái Lan",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Chỗ Nghỉ Chiang Mai ",
+        "link": "https://iprice.vn/r/c/?_id=a1ce14a7-831c-4899-aa2e-f6097fb780ad&position=63&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm giá tới 20% chỗ nghỉ du lịch Chiang Mai",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 15% Khách Sạn Dubai ",
+        "link": "https://iprice.vn/r/c/?_id=df1ca7c6-cba5-4534-a901-cca9871419b5&position=64&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm đến 15% đặt khách sạn tại Dubai",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Khách Sạn Hải Phòng ",
+        "link": "https://iprice.vn/r/c/?_id=4f1ef0e8-31d2-4d51-99a9-f296b2207241&position=65&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm đến 20% đặt khách sạn khám phá Hải Phòng",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 30% Chỗ Nghỉ Đảo Phú Quý ",
+        "link": "https://iprice.vn/r/c/?_id=cd7f038e-f652-4963-8fba-58b322bc565d&position=66&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm đến 30% đặt chỗ nghỉ dưỡng tại Đảo Phú Quý",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Chỗ Nghỉ Vũng Tàu ",
+        "link": "https://iprice.vn/r/c/?_id=1e4b4626-cf31-41cb-ab1b-f69183130b22&position=67&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm đến 20% đặt chỗ nghỉ hàng đầu tại Vũng Tàu",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 15% Khách Sạn Maldives ",
+        "link": "https://iprice.vn/r/c/?_id=cd1e55e6-da6d-4b39-8a65-e04795824f2a&position=68&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm giá đến 15% đặt khách sạn du lịch Maldives",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 25% Chỗ Nghỉ Hồng Kông ",
+        "link": "https://iprice.vn/r/c/?_id=74630d34-8322-4eaf-a647-7ab80f12a1c0&position=69&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Chỗ nghỉ du lịch Hồng Kông: Agoda khuyến mãi giảm đến 25%",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Khách Sạn Huế ",
+        "link": "https://iprice.vn/r/c/?_id=fa5e4c8c-ba02-418f-b1e5-17358cc20f58&position=70&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm đến 20% đặt phòng khách sạn tại Huế",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Chỗ Nghỉ Jakarta Từ 120K ",
+        "link": "https://iprice.vn/r/c/?_id=60f9c04f-ca9e-48ce-af68-85311533ff28&position=71&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giá chỉ từ 120K đặt chỗ nghỉ du lịch Jakarta",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 50% Khách Sạn Đạt Giải Gold Circle ",
+        "link": "https://iprice.vn/r/c/?_id=44ef79cf-0531-4b71-b42a-27fb8fd63146&position=72&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm đến 50% khách sạn đạt giải thưởng Gold Circle",
+        "hieu_luc": "31 Tháng 3 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Chỗ Nghỉ Seoul ",
+        "link": "https://iprice.vn/r/c/?_id=caa2415b-f0ba-4090-85b5-87543017df46&position=73&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm đến 20% đặt chỗ nghỉ khám phá Seoul",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Khách Sạn Bắc Kinh Từ 570K ",
+        "link": "https://iprice.vn/r/c/?_id=bb319968-f41f-4115-8c9c-16130ab96fd3&position=74&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giá chỉ từ 570K đặt phòng khách sạn tại Bắc Kinh",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 10% Khách Sạn Abu Dhabi ",
+        "link": "https://iprice.vn/r/c/?_id=37b6dd21-31f4-4374-824b-fb8f8f429bb0&position=75&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm đến 10% đặt khách sạn hàng đầu Abu Dhabi",
+        "hieu_luc": "30 Tháng 4 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Chỗ Nghỉ Đài Loan ",
+        "link": "https://iprice.vn/r/c/?_id=0a09b16c-7a3f-4728-aff4-546d84d6fbe6&position=76&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm đến 20% đặt chỗ nghỉ khám phá Đài Loan",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 50% Khách Sạn & Vé Máy Bay EVA Air ",
+        "link": "https://iprice.vn/r/c/?_id=1098642b-4e16-42ca-b2c5-89520195b39c&position=77&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm đến 50% đặt combo khách sạn & vé máy bay EVA Air",
+        "hieu_luc": "31 Tháng 10 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 25% Cuối Tuần ",
+        "link": "https://iprice.vn/r/c/?_id=6d21ee75-2551-4083-896c-249b2a07b7fa&position=78&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[Sale cuối tuần] Ưu đãi Agoda giảm giá tới 25% đặt khách sạn giá VIP",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Khách Sạn Hà Nội ",
+        "link": "https://iprice.vn/r/c/?_id=47e90179-48e6-4582-a233-92de5dd5d448&position=79&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm giá tới 20% đặt khách sạn ở Hà Nội",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Khách Sạn Hồ Chí Minh ",
+        "link": "https://iprice.vn/r/c/?_id=9bd2db8c-1c87-44bb-b577-2fcc140f232e&position=80&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm giá tới 20% đặt khách sạn Hồ Chí Minh",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 18% Dùng Thử VIP Gold ",
+        "link": "https://iprice.vn/r/c/?_id=a7457d11-04d1-4a3c-8906-98f60f5c7e21&position=81&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda giảm giá tới 18% dùng thử miễn phí VIP Gold trong 14 ngày",
+        "hieu_luc": "31 Tháng 12 2026",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 25% Khách Sạn Nội Địa ",
+        "link": "https://iprice.vn/r/c/?_id=def5e2e1-d952-4d77-8473-feb5397d6da9&position=82&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda ưu đãi đặc biệt giảm 25% khách sạn du lịch nội địa",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Đặt Phòng Lúc 20H ",
+        "link": "https://iprice.vn/r/c/?_id=b45fd822-dded-4cd2-85d3-f9b1f7687372&position=83&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm 20% đặt phòng lúc nửa đêm từ 8H tối",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Áp dụng khi đặt phòng lúc 8H tối mỗi ngày",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Tất cả khách hàng"
+    },
+    {
+        "name": " Giảm 80% Khách Sạn Cao Cấp ",
+        "link": "https://iprice.vn/r/c/?_id=0b3664e4-1ef0-4948-a09a-981e9ec8b9b4&position=84&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm đến 80% khách sạn nghỉ dưỡng cao cấp toàn cầu",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 60% Chỗ Nghỉ Từ 4 Sao ",
+        "link": "https://iprice.vn/r/c/?_id=488b9813-29fb-49d7-9296-025bc30cc3dd&position=85&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giảm đến 60% khách sạn & resort hàng đầu từ 4 sao",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 25% Combo Khách Sạn & Vé Máy Bay ",
+        "link": "https://iprice.vn/r/c/?_id=28b33f7b-9394-4d47-8662-46549faa132f&position=86&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda voucher tiết kiệm giảm đến 25% đặt combo khách sạn & vé máy bay",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Tích Điểm PointsMAX ",
+        "link": "https://iprice.vn/r/c/?_id=c9708eb2-f370-4a8e-bd44-172a4a6bc98e&position=87&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda đổi điểm Points MAX tích lũy dặm bay",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Tích lũy điểm thưởng/dặm bay sau khi kết thúc kỳ nghỉ",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Tất cả khách hàng"
+    },
+    {
+        "name": " eSIM Du Lịch Giá Rẻ ",
+        "link": "https://iprice.vn/r/c/?_id=8b27868a-5e5c-40bd-8275-c7212b98ef53&position=88&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda giá cực rẻ mua SIM du lịch nước ngoài",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Ưu Đãi Độc Quyền ",
+        "link": "https://iprice.vn/r/c/?_id=029f46fc-c3e1-4f3b-b21d-2224947ad62f&position=89&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda ưu đãi độc quyền tại chỗ nghỉ có đánh giá vượt trội Preferred",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 8% Đặt Phòng Lần 2 ",
+        "link": "https://iprice.vn/r/c/?_id=42aa9bf1-0e8e-4e79-865b-1d12d13481b7&position=90&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[Trên App] Coupon Agoda khuyến mãi giảm 8% khi đặt phòng nghỉ lần 2",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Áp dụng cho lần đặt phòng thứ 2 trên app",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Người dùng hiện tại"
+    },
+    {
+        "name": " Hoàn Tiền 7% ",
+        "link": "https://iprice.vn/r/c/?_id=a70df62b-37e5-4f4b-ad92-30e8fa8babb7&position=91&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Tiết kiệm lên đến 7% nhận thưởng hoàn tiền mặt cùng Agoda Cashback",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " 2x Tiền Agoda ",
+        "link": "https://iprice.vn/r/c/?_id=3a1b7532-dd7b-4034-b561-273e59f731ea&position=92&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Khuyến mãi Agoda nhận 2 lần tiền Agoda khi đặt khách sạn chọn lọc",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 60% Chỗ Nghỉ Tốt Nhất ",
+        "link": "https://iprice.vn/r/c/?_id=2e933458-21cb-405a-8473-104d8ccd2ed6&position=93&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda độc quyền giảm tới 60% chỗ nghỉ toàn cầu tốt nhất",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Khách sạn chọn lọc",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Tất cả khách hàng"
+    },
+    {
+        "name": " Giảm 25% VIP Plantinum ",
+        "link": "https://iprice.vn/r/c/?_id=2b2566e3-c16f-4fc0-9cb9-feaa1fc85bd8&position=94&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Voucher Agoda giảm giá 25% chỗ nghỉ cho thành viên VIP Plantinum",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Áp dụng khi hoàn thành 10 đơn đặt chỗ",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Khách hàng thành viên VIP Plantinum"
+    },
+    {
+        "name": " Giảm 18% VIP Gold ",
+        "link": "https://iprice.vn/r/c/?_id=2e04febd-6a9e-4e9a-b867-07b8ba1ce523&position=95&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Voucher Agoda giảm 18% đặt khách sạn cho thành viên VIP Gold",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Áp dụng khi hoàn thành 5 đơn đặt chỗ",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Khách hàng là thành viên VIP Gold"
+    },
+    {
+        "name": " Giảm 12% VIP Silver ",
+        "link": "https://iprice.vn/r/c/?_id=3efb19c0-cf2d-4bca-931a-4f0b7891c064&position=96&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Voucher Agoda giảm 12% đặt chỗ nghỉ với thành viên VIP Silver",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Áp dụng khi hoàn thành 2 đơn đặt chỗ",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Khách hàng là thành viên VIP Silver"
+    },
+    {
+        "name": " Giảm 25% Đặt Phòng Buổi Trưa ",
+        "link": "https://iprice.vn/r/c/?_id=2026b1ea-1546-47fe-a5b9-814aa252701c&position=97&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[14H - 18H] Agoda ưu đãi giảm đến 25% đặt khách sạn vào buổi trưa",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Áp dụng khi đặt khách sạn lúc 14H - 18H",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Tất cả khách hàng"
+    },
+    {
+        "name": " Giảm 20% Đặt 3 Đêm ",
+        "link": "https://iprice.vn/r/c/?_id=f607a531-18e9-44f8-8108-70b23e85ed6d&position=98&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm tới 20% đặt khách sạn toàn cầu từ 3 đêm",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Áp dụng khi đặt khách sạn từ 3 đêm",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Tất cả khách hàng"
+    },
+    {
+        "name": " Giảm 15% Hoạt Động Vui Chơi ",
+        "link": "https://iprice.vn/r/c/?_id=a5232f1d-de1c-4c85-8b56-c4bea0138600&position=99&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm tới 15% hoạt động vui chơi & du lịch toàn cầu",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Không yêu cầu đơn hàng tối thiểu",
+        "chi_tieu": "Tất cả khách hàng",
+        "doi_tuong": "N/A"
+    },
+    {
+        "name": " Giảm 20% Đặt Phòng Sớm ",
+        "link": "https://iprice.vn/r/c/?_id=2cf77e48-cfd5-4d92-9e8d-5a2ee34e4cd8&position=100&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Agoda khuyến mãi giảm đến 20% đặt phòng tối thiểu trước 14 ngày",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Áp dụng khi đặt phòng trước tối thiểu 14 ngày",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Tất cả khách hàng"
+    },
+    {
+        "name": " Giảm 30% Đặt Chỗ Nửa Đêm ",
+        "link": "https://iprice.vn/r/c/?_id=f121d95e-09a1-4cd0-abaf-6cc63bfe072c&position=101&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[0H - 3H] Ưu đãi Agoda giảm đến 30% khi đặt chỗ nghỉ lúc nửa đêm",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Khách sạn chọn lọc",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Tất cả khách hàng"
+    },
+    {
+        "name": " Giảm 5% Vé Máy Bay ",
+        "link": "https://iprice.vn/r/c/?_id=7947e231-886d-46fe-9834-a6f4d3b26aef&position=102&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "[Trên App] Voucher Agoda giảm tới 5% đặt vé máy bay flash sale mỗi ngày",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Kích hoạt trên app tại mục \"Phiếu Giảm Giá & Ưu Đãi\"",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Người dùng hiện tại"
+    },
+    {
+        "name": " Giảm 30% Khách Sạn Quốc Tế ",
+        "link": "https://iprice.vn/r/c/?_id=78ba38d2-7e35-4cc8-bad1-a9936f2e02b6&position=103&sub_product=coupon-store&_exit=/coupons/agoda/",
+        "info": "Ưu đãi Agoda giảm giá tới 30% đặt khách sạn quốc tế toàn cầu",
+        "hieu_luc": "31 Tháng 12 2025",
+        "gioi_han": "Áp dụng cho khách sạn quốc tế",
+        "chi_tieu": "Không yêu cầu đơn hàng tối thiểu",
+        "doi_tuong": "Tất cả khách hàng"
+    },
+    {
+        "name": " Giảm 14% Khách Sạn Toàn Cầu ",
+        "link": "N/A",
+        "info": "Mã giảm giá Agoda 14% đặt khách sạn du lịch toàn cầu",
+        "hieu_luc": "14 Tháng 2 2025",
+        "gioi_han": "Nhập mã tại mục \"Ưu đãi\" trên app & tối đa 1.2 Triệu",
+        "chi_tieu": "650K",
+        "doi_tuong": "Người dùng hiện tại"
     }
 ]
